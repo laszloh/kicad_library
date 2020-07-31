@@ -1,5 +1,10 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP TAS5753MDDCA
+D 20-W stereo, 39-W mono, 4.5-to 26.4-V, digital input open loop Class-D audio amplifier w/ AGL & HP
+F https://www.ti.com/lit/gpn/tas5753md
+$ENDCMP
+#
 $CMP TSM3457
 D -5A Id, -30V Vds, P-Channel MOSFET, SOT-23-6
 K P-Channel MOSFET
