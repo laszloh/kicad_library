@@ -1,0 +1,25 @@
+EESchema-DOCLIB  Version 2.0
+#
+<<<<<<< HEAD
+$CMP MP2615
+F https://www.monolithicpower.com/en/documentview/productdocument/index/version/2/document_type/Datasheet/lang/en/sku/MP2615/
+$ENDCMP
+#
+=======
+>>>>>>> a6317ef9c3bbad6917d81d2f0c923f013e44e9d0
+$CMP PCM1865DBT
+D 110dB 4-Channel Software-Controlled Audio ADC With Universal Front End
+$ENDCMP
+#
+$CMP TAS5753MDDCA
+D 20-W stereo, 39-W mono, 4.5-to 26.4-V, digital input open loop Class-D audio amplifier w/ AGL & HP
+F https://www.ti.com/lit/gpn/tas5753md
+$ENDCMP
+#
+$CMP TSM3457
+D -5A Id, -30V Vds, P-Channel MOSFET, SOT-23-6
+K P-Channel MOSFET
+F http://www.vishay.com/docs/70209/70209.pdf
+$ENDCMP
+#
+#End Doc Library
