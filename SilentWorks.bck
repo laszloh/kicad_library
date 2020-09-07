@@ -1,8 +1,13 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP Conn_03x06
+F ~
+$ENDCMP
+#
 $CMP MP2615
 F https://www.monolithicpower.com/en/documentview/productdocument/index/version/2/document_type/Datasheet/lang/en/sku/MP2615/
 $ENDCMP
+#
 $CMP PCM1865DBT
 D 110dB 4-Channel Software-Controlled Audio ADC With Universal Front End
 $ENDCMP
